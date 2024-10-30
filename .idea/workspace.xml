@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4069f0-7e5e-4a8e-a50a-8915dcb8f51b" name="Changes" comment="UML-DiagrammAufgabe">
-      <change afterPath="$PROJECT_DIR$/src/Verebung/verÜb.java" afterDir="false" />
+    <list default="true" id="ad4069f0-7e5e-4a8e-a50a-8915dcb8f51b" name="Changes" comment="UML-DiagrammAufgabe Änderungen vorgenommen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,12 +122,29 @@
       <option name="project" value="LOCAL" />
       <updated>1730207177695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UML-DiagrammAufgabe">
+      <option name="closed" value="true" />
+      <created>1730322456261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730322456261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UML-DiagrammAufgabe Änderungen vorgenommen">
+      <option name="closed" value="true" />
+      <created>1730322591386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730322591386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UML-DiagrammAufgabe" />
-    <option name="LAST_COMMIT_MESSAGE" value="UML-DiagrammAufgabe" />
+    <MESSAGE value="UML-DiagrammAufgabe Änderungen vorgenommen" />
+    <option name="LAST_COMMIT_MESSAGE" value="UML-DiagrammAufgabe Änderungen vorgenommen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
